@@ -1,0 +1,6 @@
+       Names                 ID               Pay Type            Pay Rate          Hours Worked         Gross Pay      
+       Kelly                 1                   H                   12                  32                 384         
+       Jason                 2                   S                  700                  40                 700         
+       Alice                 3                   S                  720                  40                 720         
+       Debra                 4                   H                   13                  19                 247         
+       Gordon                5                   H                   12                  23                 276         
